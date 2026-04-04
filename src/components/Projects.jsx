@@ -1,6 +1,5 @@
 import ProjectCard from './ProjectCard';
 import todoPreview from '../assets/todos-preview.png';
-import studyUsPreview from '../assets/studyus-preview.png';
 import letsgoPreview from '../assets/letsgo-preview.png';
 
 
@@ -13,15 +12,6 @@ const projectData = [
     github: "https://github.com/JeffGentapanan/awesometodosapp.git",
     live: "https://awesometodosapp-otag.onrender.com",
     image: todoPreview
-  },
-  {
-    title: "StudyUS",
-    counter: "PROJECT 02",
-    description: "A collaborative learning platform design focused on connecting students and streamlining resource sharing. Features an intuitive UI/UX built for modern educational environments.",
-    stack: ["UI/UX Design", "Figma", "Interaction Design", "EdTech", "User Research", "Prototyping", "Wireframing", "Design Systems"],
-    github: "#",
-    live: "https://www.figma.com/design/0uqB0FEeRu1delexuKWxOa/StudyUS",
-    image: studyUsPreview
   },
   {
     title: "LetsGo",

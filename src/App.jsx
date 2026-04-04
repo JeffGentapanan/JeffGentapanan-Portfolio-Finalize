@@ -5,15 +5,12 @@ import Skills from './components/Skills';
 import Resume from './components/Resume';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-
 import './index.css';
 
 function App() {
-
   return (
     <div className="App">
       <Header />
-
       <main className="main-content">
         <About />
         <Projects />
@@ -21,10 +18,8 @@ function App() {
         <Resume />
         <Contact />
       </main>
-
       <Footer />
     </div>
   );
 }
-
 export default App;

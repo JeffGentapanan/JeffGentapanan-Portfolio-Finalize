@@ -8,7 +8,7 @@ export default function Contact() {
           <p>I'm always open to new opportunities and collaborations...</p>
           <ul className="contact-details">
             <li><i className="fas fa-envelope"></i> jeff.gentapanan2004525@gmail.com</li>
-            <li><i className="fas fa-phone-alt"></i> 09276886821</li>
+            <li><i className="fas fa-phone-alt"></i> 09944935058</li>
             <li><i className="fas fa-map-marker-alt"></i> Philippines</li>
             <li><i className="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/jeff-gentapanan-4b76b8370/" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a></li>
           </ul>

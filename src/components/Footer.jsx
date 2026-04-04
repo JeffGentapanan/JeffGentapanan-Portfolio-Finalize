@@ -15,7 +15,7 @@ export default function Footer() {
             <i className="fab fa-facebook"></i>
           </a>
         </div>
-        <p>&copy; {currentYear} Designed and Built by Jeff Gentapanan.</p>
+        <p>&copy; {currentYear} Designed and Built by Jeff A. Gentapanan.</p>
       </div>
     </footer>
   );

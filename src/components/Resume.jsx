@@ -6,7 +6,7 @@ export default function Resume() {
         <div className="quick-info">
           <div className="info-item">
             <span>Name:</span>
-            <p>Jeff Gentapanan</p>
+            <p>Jeff A. Gentapanan</p>
           </div>
           <div className="info-item">
             <span>Address:</span>

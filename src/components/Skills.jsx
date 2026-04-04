@@ -12,7 +12,7 @@ const skillData = [
   { 
     category: "Tools", 
     icon: "fa-tools", 
-    list: ["Vite", "Git & GitHub", "DevTools", "Canvas API", "Figma"] 
+    list: ["Vite", "Git & GitHub", "Figma"] 
   }
 ];
 
