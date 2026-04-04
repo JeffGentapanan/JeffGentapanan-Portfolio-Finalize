@@ -6,9 +6,9 @@ export default function About() {
       <div className="about-container">
         <div className="about-text">
           <h4>Hi, my name is</h4>
-          <h1 className="name-heading">Jeff A. Gentapanan.</h1>
+          <h1 className="name-heading">Jeff Gentapanan.</h1>
           <h2>
-            I'm a student who loves designing and building for the web and currently learning the flow of frontend development and improving my portfolio step by step.
+            I'm  BSIT student who loves designing and currently learning the flow of frontend development and improving my portfolio step by step.
           </h2>
           <p>
             I'm still pretty new to the world of frontend development and design, but I'm 
