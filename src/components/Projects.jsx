@@ -15,7 +15,7 @@ const projectData = [
   },
   {
     title: "LetsGo",
-    counter: "PROJECT 03",
+    counter: "PROJECT 02",
     description: "A travel planning application that helps users discover and organize their dream destinations. Features a visually appealing interface and seamless integration with travel APIs.",
     stack: ["UI/UX Design", "Figma", "Interaction Design", "Travel Tech", "Mobile Design", "User Experience", "Visual Design", "App Design", "Travel Planning"],
     github: "#",
