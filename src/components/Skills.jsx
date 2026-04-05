@@ -7,7 +7,7 @@ const skillData = [
   { 
     category: "Libraries", 
     icon: "fa-book", 
-    list: ["React", "Font Awesome 6", "Google Fonts", "FormSubmit API"] 
+    list: ["React", "Font Awesome 6", "Google Fonts", "FormSubmit API", "Reactbits"] 
   },
   { 
     category: "Tools", 
@@ -27,6 +27,7 @@ const iconMap = {
   "Font Awesome 6": "fab fa-font-awesome",
   "Google Fonts": "fas fa-font",
   "FormSubmit API": "fas fa-paper-plane",
+  "Reactbits": "fas fa-cubes",
 
   "Vite": "fas fa-bolt",
   "Git & GitHub": "fab fa-github",
