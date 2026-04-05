@@ -204,7 +204,8 @@ p {
   position: relative;
   width: 500px;
   height: 500px;
-  margin-top: -200px;
+  margin-top: -180px;
+  margin-bottom: 35px;
 }
 
 .image-wrapper-glow::after {
