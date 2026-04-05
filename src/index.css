@@ -698,3 +698,16 @@ p {
   .contact-container { gap: 2rem; }
   .quick-info { gap: 2rem; }
 }
+
+/* pabulig man ni sa gemini dugang para magana ang Plasma background */
+/* This makes the 'paper' your text is written on transparent */
+body, #root, .App {
+  background-color: transparent !important;
+}
+
+/* This ensures the main section doesn't have a default solid background */
+.main-content {
+  background: transparent !important;
+  position: relative;
+  z-index: 1; /* Keeps your text and buttons clickable and on top */
+}
