@@ -3,7 +3,7 @@ export default function Header() {
     <header className="header" id="header">
       <div className="container">
         <div className="logo-section">
-          <a href="#about" className="logo">
+          <a href="#home" className="logo">
             <span>JEFF</span>.DEV
           </a>
           <a href="https://github.com/JeffGentapanan/MY-PORTFOLIO-JEFFGENTAPANAN-BSIT2-SECTION1.git" target="_blank" rel="noopener noreferrer" className="github-link" title="View Source on GitHub">
@@ -12,6 +12,7 @@ export default function Header() {
         </div>
         <nav className="nav">
           <ul>
+            <li><a href="#home">Home</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#projects">Projects</a></li>
             <li><a href="#skills">Skills</a></li>

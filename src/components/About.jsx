@@ -1,5 +1,5 @@
 import profileImg from '../assets/profile.jpg';
-import TextType from '../TextType';
+import TextType from './TextType';
 
 export default function About() {
   return (
