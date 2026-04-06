@@ -1,4 +1,5 @@
 import profileImg from '../assets/profile.jpg';
+import TextType from '../TextType';
 
 export default function About() {
   return (
@@ -6,7 +7,18 @@ export default function About() {
       <div className="about-container">
         <div className="about-text">
           <h4>Hi, my name is</h4>
-          <h1 className="name-heading">Jeff Gentapanan.</h1>
+          <h1 className="name-heading"><TextType 
+            text={["Jeff A. Gentapanan", "UI/UX Designer", "Welcome!"]}
+            typingSpeed={75}
+            pauseDuration={1500}
+            showCursor
+            cursorCharacter="_"
+            deletingSpeed={50}
+            variableSpeedEnabled={false}
+            variableSpeedMin={60}
+            variableSpeedMax={120}
+            cursorBlinkDuration={0.5} />
+          </h1>
           <h2>
             I'm  BSIT student who loves designing and currently learning the flow of frontend development and improving my portfolio step by step.
           </h2>

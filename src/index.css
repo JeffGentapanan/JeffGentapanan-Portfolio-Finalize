@@ -202,9 +202,9 @@ p {
 
 .image-wrapper-glow {
   position: relative;
-  width: 500px;
-  height: 500px;
-  margin-top: -180px;
+  width: 400px;
+  height: 400px;
+  margin-top: -140px;
   margin-bottom: 35px;
 }
 
@@ -236,7 +236,7 @@ p {
 }
 
 .about h1, .name-heading {
-  font-size: clamp(3rem, 8vw, 5rem);
+  font-size: clamp(3rem, 2vw, 5rem);
   font-weight: 900;
   line-height: 0.9;
   margin-bottom: 1.5rem;
