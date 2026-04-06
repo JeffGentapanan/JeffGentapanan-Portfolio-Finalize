@@ -17,6 +17,13 @@ export default function Footer() {
         </div>
         <p>&copy; {currentYear} Designed and Built by Jeff A. Gentapanan.</p>
       </div>
+       <button
+          className="footer-scroll-top"
+          onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+          aria-label="Scroll to top"
+          >
+          <i className="fas fa-chevron-up"></i>
+        </button>
     </footer>
   );
 }
